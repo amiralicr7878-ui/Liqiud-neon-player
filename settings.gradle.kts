@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "NeonLiquidPlayerV2"
+rootProject.name = "LiquidNeonStandalone"
 include(":app")
