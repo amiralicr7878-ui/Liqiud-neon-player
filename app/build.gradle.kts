@@ -11,8 +11,8 @@ android {
         applicationId = "com.neon.liquidplayer.v2"
         minSdk = 26
         targetSdk = 35
-        versionCode = 5
-        versionName = "2.3.1"
+        versionCode = 1
+        versionName = "1.0.0"
     }
 
     buildTypes {
