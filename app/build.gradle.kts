@@ -8,7 +8,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.neon.liquidplayer.v2"
+        applicationId = "com.liquidneon.standalone.player"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
